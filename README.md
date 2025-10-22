@@ -3,7 +3,7 @@
 
  # 🎬 My Favorite Series: *Master of the Air*
 
-![Master of the Air Poster]([https://upload.wikimedia.org/wikipedia/en/f/fd/Master_of_the_Air_poster.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA6m-3aW86zj4kUI3L34PeqBQ5SdOjQii0aieDrYyNRbXATMGm))
+![Master of the Air Poster](https://images2.alphacoders.com/134/thumb-1920-1349134.jpeg)
 
 ## 📖 Overview
 **Master of the Air** is a World War II drama series that follows the courageous men of the 100th Bomb Group of the U.S. Army Air Forces. It showcases their bravery, brotherhood, and struggles as they carry out dangerous missions over Nazi Germany.
